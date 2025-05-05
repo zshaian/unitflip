@@ -64,7 +64,7 @@ unitFlip(16, "px", "vw", 2, { viewPortWidth: 1280 }); // 1.25
 npm run test
 ```
 
-### Break Down into End to End Test
+### Break Down into Unit Test 
 
 these unit test are for checking if the conversion function is returning the right conversion value.
 
